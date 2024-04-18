@@ -1,6 +1,6 @@
 {
   "name": "use-app-visibility",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom hook to get the visibility state of your app",
   "main": "index.js",
   "type": "module",
