@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-export const useDocVisible = () => {
+export const useAppVisible = () => {
   const [visible, setVisible] = useState(
     document.visibilityState === "visible"
   );
