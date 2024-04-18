@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A custom hook to get the visibility state of your app",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "npm run test",
     "start":"npm run start"
