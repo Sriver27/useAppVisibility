@@ -1,0 +1,32 @@
+{
+  "name": "use-app-visibility",
+  "version": "1.0.0",
+  "description": "A custom hook to get the visibility state of your app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start":"npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sriver27/useAppVisibility"
+  },
+  "keywords": [
+    "visibility",
+    "doc visibility",
+    "app visibility",
+    "visibility state"
+  ],
+  "author": "Harsh Jain",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sriver27/useAppVisibility/issues"
+  },
+  "homepage": "https://github.com/Sriver27/useAppVisibility#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
